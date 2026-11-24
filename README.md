@@ -9,7 +9,9 @@
 
 ## Why Practical DevSecOps Certifications Are Worth Checking Out
 
-![Practical DevSecOps Black Friday 2026 Sale](pdso-black-friday-hero.png)
+<p align="center">
+  <img src="./BFCM-2026.png" alt="BFCM">
+</p>
 
 Practical DevSecOps has trained 12,500+ professionals and holds a 5-star rating from 600+ reviewers on Trustpilot. Their certifications are recognized by Booz Allen Hamilton, Accenture, Standard Chartered, PwC, E&Y, IBM, and PayPal.
 
